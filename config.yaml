@@ -1,0 +1,45 @@
+baseurl: /
+languageCode: en-us
+title: codeblue
+theme: hugo-lithium
+googleAnalytics: ''
+disqusShortname: ''
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+permalinks:
+  post: /:year/:month/:day/:slug/
+menu:
+  main:
+    - name: About
+      url: /about/about/
+    - name: GitHub
+      url: https://github.com/codeblue-team
+    - name: Twitter
+      url: https://twitter.com/CodeBlue_Team
+    - name: BEM
+      url: /cooperation_BEM/
+params:
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  description: A website for all things data science and medicine
+  favicon: /images/codeblue_icon.svg
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    - yaml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  logo:
+    alt: Logo
+    height: 50
+    url: codeblue_icon.svg
+    width: 5
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
