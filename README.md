@@ -1,10 +1,10 @@
 # codeblue.it
-Repository for the codeblue.it website
+This is the repository for the [codeblue.it](http://codeblue.it/) website.
 
 # How to use
-The site us built on the blogdown package for R markdown. For details please refer to https://bookdown.org/yihui/blogdown/
+We built the site using the *blogdown* package for R markdown. For details please refer to [its documentation](https://bookdown.org/yihui/blogdown/)
 
-To get started quickly adding posts:
+If all you want is to add a post do the following:
 
 - clone the repository
 - open in RStudio
