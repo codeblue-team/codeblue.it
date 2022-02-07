@@ -1,0 +1,22 @@
+---
+title: "Codeblue website launch"
+author: "Peter Marquardt"
+date: 2022-01-04
+categories: ["R"]
+tags: ["R", "coding", "R Markdown", "R blogdown", "website", "codeblue"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Happy new year 2022!
+
+After the vision of `>CodeBlue` and this website have been a brainchild of many years and in more concrete planning for a few months, we are excited to finally launch the site!
+
+One big accelerator has been that Peter finally came around to learn [R blogdown](https://bookdown.org/yihui/blogdown), a fantastic package which has turned out to be very well documented and therefore quick and easy to learn. The second round of thanks belongs to the folks at [wowchemy](https://wowchemy.com/?utm_campaign=poweredby) whose tools and templates this is based on. If you want to build your own website like this, read [this blogdown post](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/) or look at the [repository](https://github.com/codeblue-team/codeblue.it) we keep the source code for this website in.
+
+We are happy to cooperate with [Berlin Exchange Medicine](/project/bem/) where we have a regular column. In addition, we plan to add to this blog at least somewhat regularly. Happy reading!
+
+Peter and Till

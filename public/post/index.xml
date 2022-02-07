@@ -1,21 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on codeblue</title>
+    <title>Posts | CodeBlue</title>
     <link>/post/</link>
-    <description>Recent content in Posts on codeblue</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 CodeBlue</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu5c4e48896e28c9405a871e5303c560fe_6052_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
     <item>
       <title>Codeblue website launch</title>
-      <link>/2022/01/04/codeblue-website-launch/</link>
+      <link>/post/2022-01-04_website_launch/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/2022/01/04/codeblue-website-launch/</guid>
-      <description>Happy new year 2022!
-After the vision of &amp;gt;CodeBlue and this website have been a brainchild of many years and in more concrete planning for a few months, we are excited to finally launch the site!
-One big accelerator has been that Peter finally came around to learn R blogdown, which has turned out to be very well documented and therefore quick and easy to learn. We’re aware the default design isn’t exactly winning us style points, but we like it, it’s easy, and it works.</description>
+      <guid>/post/2022-01-04_website_launch/</guid>
+      <description>
+&lt;script src=&#34;/post/2022-01-04_website_launch/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Happy new year 2022!&lt;/p&gt;
+&lt;p&gt;After the vision of &lt;code&gt;&amp;gt;CodeBlue&lt;/code&gt; and this website have been a brainchild of many years and in more concrete planning for a few months, we are excited to finally launch the site!&lt;/p&gt;
+&lt;p&gt;One big accelerator has been that Peter finally came around to learn &lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34;&gt;R blogdown&lt;/a&gt;, a fantastic package which has turned out to be very well documented and therefore quick and easy to learn. The second round of thanks belongs to the folks at &lt;a href=&#34;https://wowchemy.com/?utm_campaign=poweredby&#34;&gt;wowchemy&lt;/a&gt; whose tools and templates this is based on. If you want to build your own website like this, read &lt;a href=&#34;https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/&#34;&gt;this blogdown post&lt;/a&gt; or look at the &lt;a href=&#34;https://github.com/codeblue-team/codeblue.it&#34;&gt;repository&lt;/a&gt; we keep the source code for this website in.&lt;/p&gt;
+&lt;p&gt;We are happy to cooperate with &lt;a href=&#34;/project/bem/&#34;&gt;Berlin Exchange Medicine&lt;/a&gt; where we have a regular column. In addition, we plan to add to this blog at least somewhat regularly. Happy reading!&lt;/p&gt;
+&lt;p&gt;Peter and Till&lt;/p&gt;
+</description>
     </item>
     
   </channel>
