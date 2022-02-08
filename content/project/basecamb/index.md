@@ -2,7 +2,7 @@
 date: "2021-05-12T00:00:00-00:00"
 external_link: ""
 image:
-  focal_point: Smart
+  focal_point: Center
 links:
 - icon: github
   icon_pack: fab

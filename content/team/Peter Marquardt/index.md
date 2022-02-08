@@ -2,7 +2,7 @@
 date: "2022-01-01T00:00:00-00:00"
 external_link: ""
 image:
-  focal_point: Smart
+  focal_point: Top
 links:
 - icon: github
   icon_pack: fab
