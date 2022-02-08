@@ -59,9 +59,9 @@
     
     <item>
       <title>BASECAMB</title>
-      <link>/project/r_packages/</link>
+      <link>/project/basecamb/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      <guid>/project/r_packages/</guid>
+      <guid>/project/basecamb/</guid>
       <description>&lt;p&gt;Statistical analysis can be hard, especially for coding novices. We make available tools we have developed for an intuitive, fast, and flexible workflow we use for statistical analyses: The &lt;strong&gt;B&lt;/strong&gt;iomedical &lt;strong&gt;A&lt;/strong&gt;pplications of &lt;strong&gt;S&lt;/strong&gt;tatistical &lt;strong&gt;E&lt;/strong&gt;valuation - &lt;strong&gt;C&lt;/strong&gt;oding &lt;strong&gt;A&lt;/strong&gt;ssets by &lt;strong&gt;M&lt;/strong&gt;arquardt and &lt;strong&gt;B&lt;/strong&gt;est.&lt;/p&gt;
 </description>
     </item>
