@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Welcome to CodeBlue!
+title: Welcome to `>CodeBlue`!
 subtitle:
 
 design:
@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["200px", "800px", "200px", "800px"]
+    padding: ["10%", "35%", "10%", "35%"]
 ---
 
 <p style="text-align: center;">
