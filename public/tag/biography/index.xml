@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biography | CodeBlue</title>
+    <link>/tag/biography/</link>
+      <atom:link href="/tag/biography/index.xml" rel="self" type="application/rss+xml" />
+    <description>biography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 CodeBlue</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu5c4e48896e28c9405a871e5303c560fe_6052_512x512_fill_lanczos_center_3.png</url>
+      <title>biography</title>
+      <link>/tag/biography/</link>
+    </image>
+    
+    <item>
+      <title>Peter Marquardt</title>
+      <link>/team/peter-marquardt/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/team/peter-marquardt/</guid>
+      <description>&lt;p&gt;Between a father in software and a physician mother, Peter decided to study medicine at RWTH Aachen. Not to make his father feel left out, he started a data science-heavy thesis at the Fintelmann lab at Massachusetts General Hospital &amp;amp; Harvard Medical School in 2019 and is now heading its algorithms &amp;amp; software development team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Till Best</title>
+      <link>/team/till-best/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/team/till-best/</guid>
+      <description>&lt;p&gt;Till studies medicine at the Charité in Berlin since 2015. For his doctoral thesis, he has joined the Fintelmann lab at Massachusetts General Hospital &amp;amp; Harvard Medical School in 2018. In 2020, he temporarily joined the Institute of Virology at Charité finding yet another team of outstanding scientists that could make use of an amateur coder.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

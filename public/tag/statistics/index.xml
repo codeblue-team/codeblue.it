@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics | CodeBlue</title>
+    <link>/tag/statistics/</link>
+      <atom:link href="/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>statistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2022 CodeBlue</copyright><lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu5c4e48896e28c9405a871e5303c560fe_6052_512x512_fill_lanczos_center_3.png</url>
+      <title>statistics</title>
+      <link>/tag/statistics/</link>
+    </image>
+    
+    <item>
+      <title>BASECAMB</title>
+      <link>/project/basecamb/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>/project/basecamb/</guid>
+      <description>&lt;p&gt;Statistical analysis can be hard, especially for coding novices. We make available tools we have developed for an intuitive, fast, and flexible workflow we use for statistical analyses: The &lt;strong&gt;B&lt;/strong&gt;iomedical &lt;strong&gt;A&lt;/strong&gt;pplications of &lt;strong&gt;S&lt;/strong&gt;tatistical &lt;strong&gt;E&lt;/strong&gt;valuation - &lt;strong&gt;C&lt;/strong&gt;oding &lt;strong&gt;A&lt;/strong&gt;ssets by &lt;strong&gt;M&lt;/strong&gt;arquardt and &lt;strong&gt;B&lt;/strong&gt;est.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
